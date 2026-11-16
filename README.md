@@ -60,7 +60,7 @@ O aplicativo oferece filtros por período e produto. A curva ABC classifica:
 Requisitos: Python 3.10 ou superior.
 
 ```bash
-git clone https://github.com/SEU_USUARIO/dashboard-gestao-pme.git
+git clone https://github.com/joaovict18/dashboard-gestao-pme.git
 cd dashboard-gestao-pme
 python -m venv .venv
 
@@ -83,7 +83,7 @@ O navegador abrirá o dashboard em `http://localhost:8501`.
 2. Na pasta do projeto, publique os commits:
 
    ```bash
-   git remote add origin https://github.com/SEU_USUARIO/dashboard-gestao-pme.git
+   git remote add origin https://github.com/joaovict18/dashboard-gestao-pme.git
    git branch -M main
    git push -u origin main
    ```
@@ -91,7 +91,7 @@ O navegador abrirá o dashboard em `http://localhost:8501`.
 3. Acesse [share.streamlit.io](https://share.streamlit.io/) e entre com sua
    conta do GitHub.
 4. Clique em **Create app** e selecione:
-   - **Repository:** `SEU_USUARIO/dashboard-gestao-pme`
+   - **Repository:** `joaovict18/dashboard-gestao-pme`
    - **Branch:** `main`
    - **Main file path:** `app.py`
 5. Clique em **Deploy**. O Streamlit instalará automaticamente as dependências
