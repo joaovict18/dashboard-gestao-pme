@@ -3,7 +3,7 @@
 > Dashboard de vendas para apoiar decisões rápidas de um pequeno comércio.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/ feito%20com-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/feito%20com-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Licença](https://img.shields.io/badge/licença-MIT-2ea44f)](LICENSE)
 
 ## Sobre o projeto
