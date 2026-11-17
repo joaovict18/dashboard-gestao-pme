@@ -26,6 +26,8 @@ seu faturamento calculado por `quantidade × valor`.
 
 ![Prévia do dashboard](https://placehold.co/1200x650/0f766e/ffffff?text=Gestao+PME+Dashboard)
 
+[Acessar o dashboard online](https://gestao-pme.streamlit.app/)
+
 O aplicativo oferece filtros por período e produto. A curva ABC classifica:
 
 - **A:** produtos que acumulam até 80% do faturamento;
@@ -100,6 +102,9 @@ O navegador abrirá o dashboard em `http://localhost:8501`.
 Sempre que você fizer `git push` para a branch `main`, o app será atualizado
 automaticamente. Para compartilhar o resultado, adicione a URL gerada pelo
 Streamlit na descrição do repositório e no seu currículo/portfólio.
+
+O dashboard publicado está disponível em:
+<https://gestao-pme.streamlit.app/>
 
 ## 🧩 Próximas evoluções
 
